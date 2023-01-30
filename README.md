@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeinUmin&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeinUmin&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=HeinUmin&count_private=true&show_icons=true&include_all_commits=true&theme=onedark">
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=HeinUmin&count_private=true&show_icons=true&include_all_commits=true">
+</picture>
+</br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=HeinUmin&layout=compact&theme=onedark">
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=HeinUmin&layout=compact">
+</picture>
 
 <!--
 **HeinUmin/HeinUmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
